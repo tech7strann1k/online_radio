@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1,66.4 - Радио России
+http://icecast.vgtrk.cdnvideo.ru/rrzonam
+#EXTINF:-1,72.9 - Радио Радонеж
+http://icecast.radonezh.cdnvideo.ru:8000/rad128
+#EXTINF:-1,87.5 - Business FM
+http://bfm.hostingradio.ru:8004/fm
+#EXTINF:-1,87.9 - Like FM
+http://ic7.101.ru:8000/v12_1
+#EXTINF:-1,88.3 - Ретро FM
+http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
+#EXTINF:-1,88.7 - Юмор FM
+http://ic7.101.ru:8000/v5_1
+#EXTINF:-1,89.1 - Радио Jazz
+http://nashe1.hostingradio.ru:80/jazz-256
+#EXTINF:-1,89.5 - Megapolis FM
+http://109.239.133.138:8000/megapolis-48.aac
+#EXTINF:-1,89.9 - Страна FM
+http://icecast.stranafm.cdnvideo.ru/stranafm
+#EXTINF:-1,90.3 - Авторадио
+http://ic7.101.ru:8000/v3_1
+#EXTINF:-1,90.8 - Relax FM
+http://ic7.101.ru:8000/v13_1
+#EXTINF:-1,91.2 - Эхо Москвы
+http://icecast-echomsksni.cdnvideo.ru:8000/stream2
+#EXTINF:-1,91.6 - Радио Культура
+http://icecast.vgtrk.cdnvideo.ru/kulturafm
+#EXTINF:-1,92.0 - Москва FM
+http://icecast.vgtrk.cdnvideo.ru/moscowfm128
+#EXTINF:-1,92.4 - Радио Дача
+http://178.217.40.125:8000/rdsat
+#EXTINF:-1,92.8 - Радио Карнавал
+https://online.radiokarnaval.ru/karnaval
+#EXTINF:-1,93.2 - Studio 21
+http://icecast-studio21.cdnvideo.ru/S21cl_1r
+#EXTINF:-1,93.6 - Коммерсант FM
+http://kommersant77.hostingradio.ru:8016/kommersant128.mp3
+#EXTINF:-1,94.0 - Восток FM
+http://185.92.185.10:8000/Vostok320
+#EXTINF:-1,94.4 - Весна FM
+http://
+#EXTINF:-1,94.8 - Говорит Москва
+http://audio2.video.ria.ru/voiceGM
+#EXTINF:-1,95.2 - Rock FM
+http://nashe1.hostingradio.ru:80/rock-256
+#EXTINF:-1,95.6 - Радио Звезда
+http://stream.radiozvezda.ru:8088/zvezda_128
+#EXTINF:-1,96.0 - Дорожное радио
+http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
+#EXTINF:-1,96.4 - Такси FM
+http://83.220.40.233:8000/13_taxi_320
+#EXTINF:-1,96.8 - Детское радио
+http://ic7.101.ru:8000/v14_1
+#EXTINF:-1,97.2 - Комсомольская правда
+http://kraskp.ru:8000/mskregion
+#EXTINF:-1,97.6 - Вести FM
+http://icecast.vgtrk.cdnvideo.ru/vestifm
+#EXTINF:-1,98.0 - Радио Шоколад
+http://choco.hostingradio.ru:10010/fm
+#EXTINF:-1,98.4 - Новое радио
+http://icecast.newradio.cdnvideo.ru/newradio3
+#EXTINF:-1,98.8 - Радио Романтика
+http://ic7.101.ru:8000/v4_1
+#EXTINF:-1,99.2 - Радио Орфей
+http://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3
+#EXTINF:-1,99.6 - Русский хит
+http://stream2.ruhit.fm:9000/19_ruhit_24_reg_1
+#EXTINF:-1,100.1 - Серебряный дождь
+http://silverrain.hostingradio.ru/silver128.mp3
+#EXTINF:-1,100.5 - Жара FM
+http://live3.zharafm.ru:8000/live
+#EXTINF:-1,100.9 - Радио Вера
+http://radiovera.hostingradio.ru:8007/radiovera_128
+#EXTINF:-1,101.2 - DFM
+http://dfm.hostingradio.ru/dfm128.mp3
+#EXTINF:-1,101.7 - Наше радио
+http://nashe1.hostingradio.ru:80/nashe-256
+#EXTINF:-1,102.1 - Монте-карло
+http://montecarlo.hostingradio.ru/montecarlo128.mp3
+#EXTINF:-1,102.5 - Comedy Радио
+http://ic7.101.ru:8000/v11_1
+#EXTINF:-1,103.0 - Радио Шансон
+http://chanson.hostingradio.ru:8041/chanson256.mp3
+#EXTINF:-1,103.4 - Радио Маяк
+http://icecast.vgtrk.cdnvideo.ru/mayakfm
+#EXTINF:-1,103.7 - Радио Maximum
+http://maximum.hostingradio.ru/maximum128.mp3
+#EXTINF:-1,104.2 - Радио Energy
+http://ic7.101.ru:8000/v1_1
+#EXTINF:-1,104.7 - Радио 7 на семи холмах
+http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
+#EXTINF:-1,105.0 - Радио Книга
+http://bookradio.hostingradio.ru:8069/fm
+#EXTINF:-1,105.3 - Capital FM
+http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3
+#EXTINF:-1,105.7 - Русское радио
+http://rusradio.hostingradio.ru/rusradio128.mp3
+#EXTINF:-1,106.2 - Европа плюс
+http://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3
+#EXTINF:-1,106.6 - Love Радио
+http://147.78.65.7/LoveRadio.m3u8
+#EXTINF:-1,107.0 - Известия/РСН
+http://
+#EXTINF:-1,107.4 - Хит FM
+http://hitfm.hostingradio.ru/hitfm128.mp3
+#EXTINF:-1,107.8 - Милицейская волна
+http://radiomv.hostingradio.ru/radiomv256.mp3
